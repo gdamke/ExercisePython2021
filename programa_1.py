@@ -20,5 +20,12 @@ def multiplicacion(a,b):
     return a*b
 
 def division(a,b):
-    pass
+   '''Este programa retorna el valor de la division de a y b'''
+   if b!=0:
+   	c=a/b
+   else:
+   	c='b=0 no se puede dividir'
+   return c
+   
+
 
