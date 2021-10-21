@@ -8,7 +8,8 @@ Program 1 for the Git/Github class exercise.
 import math
 
 def suma(a,b):
-    pass
+    '''Este programa retorna el valor de la suma de a y b '''
+    return a+b
 
 def resta(a,b):
     pass
