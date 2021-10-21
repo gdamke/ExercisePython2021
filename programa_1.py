@@ -27,5 +27,6 @@ def division(a,b):
    	c='b=0 no se puede dividir'
    return c
    
-
+def cuadrado(a)
+    pass
 
