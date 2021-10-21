@@ -27,6 +27,8 @@ def division(a,b):
    	c='b=0 no se puede dividir'
    return c
    
-def cuadrado(a)
-    pass
+def exponencial(a):
+    '''Este programa retorna el valor de e elevado a la a potencia'''
+    return math.exp(a)
+    
 
