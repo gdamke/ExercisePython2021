@@ -28,4 +28,5 @@ def division(a,b):
    return c
 
 def cuadrado(a):
-    pass
+    return a*a
+ 
