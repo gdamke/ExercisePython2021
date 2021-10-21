@@ -28,5 +28,6 @@ def division(a,b):
    return c
 
 def cuadrado(a):
+    '''Este programa retorna el valor del cuadrado de a'''
     return a*a
  
