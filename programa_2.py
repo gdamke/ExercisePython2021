@@ -22,3 +22,5 @@ def div_entero(a,b):
 def div_resto(a,b):
     pass
 
+def log10(a,b):
+    pass
