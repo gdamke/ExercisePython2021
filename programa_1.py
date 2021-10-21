@@ -26,6 +26,8 @@ def division(a,b):
    else:
    	c='b=0 no se puede dividir'
    return c
-   
+
+def lognatural(a):
+    pass   
 
 
