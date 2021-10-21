@@ -28,6 +28,7 @@ def division(a,b):
    return c
 
 def lognatural(a):
-    pass   
+    '''Este programa retorna el valor del logatimo de a'''
+    return math.log(a)   
 
 
