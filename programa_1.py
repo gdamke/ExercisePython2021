@@ -12,7 +12,8 @@ def suma(a,b):
     return a+b
 
 def resta(a,b):
-    pass
+    '''Este programa retorna el valor de la resta de a y b'''
+    return a-b 
 
 def multiplicacion(a,b):
     pass
