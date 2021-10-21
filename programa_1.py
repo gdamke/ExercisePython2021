@@ -28,6 +28,6 @@ def division(a,b):
    return c
    
 def rama_raiz_cuadrada(a):
-    pass
+    return sqrt(a)
 
 
