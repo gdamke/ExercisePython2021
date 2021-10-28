@@ -22,5 +22,6 @@ def div_entero(a,b):
 def div_resto(a,b):
     pass
 
-def log10(a,b):
-    pass
+def log10(a):
+    '''Este programa devuelve el log en base 10 de a'''
+    return math.log10(a)
