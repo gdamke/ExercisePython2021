@@ -23,5 +23,6 @@ def div_resto(a,b):
 	pass
 
 def cubo(a):
-	pass	
+    '''Este programa calcula el cubo de la variable a'''
+    return a*a*a
 
