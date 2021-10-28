@@ -20,7 +20,7 @@ def div_entero(a,b):
     return c
 
 def div_resto(a,b):
-	'''Este programa retorna el resto una division'''
+	pass
 
 def cubo(a):
 	pass	
