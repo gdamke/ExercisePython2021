@@ -20,7 +20,11 @@ def div_entero(a,b):
     return c
 
 def div_resto(a,b):
-    pass
+	pass
+
+def cubo(a):
+    '''Este programa calcula el cubo de la variable a'''
+    return a*a*a
 
 def log10(a):
     '''Este programa devuelve el log en base 10 de a'''
