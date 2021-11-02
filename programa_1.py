@@ -26,6 +26,19 @@ def division(a,b):
    else:
    	c='b=0 no se puede dividir'
    return c
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+def rama_raiz_cuadrada(a):
+    ''''Este programa retorna la raiz cuadrada  de a'''
+    return math.sqrt(a)
+
+>>>>>>> RamaRaizCuadrada
 
 def cuadrado(a):
     '''Este programa retorna el valor del cuadrado de a'''
