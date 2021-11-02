@@ -31,7 +31,6 @@ def rama_raiz_cuadrada(a):
     ''''Este programa retorna la raiz cuadrada  de a'''
     return math.sqrt(a)
 
-
 def cuadrado(a):
     '''Este programa retorna el valor del cuadrado de a'''
     return a*a
