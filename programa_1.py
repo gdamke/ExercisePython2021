@@ -26,6 +26,10 @@ def division(a,b):
    else:
    	c='b=0 no se puede dividir'
    return c
+   
+def exponencial(a):
+    '''Este programa retorna el valor de e elevado a la a potencia'''
+    return math.exp(a)
 
 def rama_raiz_cuadrada(a):
     ''''Este programa retorna la raiz cuadrada  de a'''
