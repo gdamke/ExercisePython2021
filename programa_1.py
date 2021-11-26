@@ -26,6 +26,7 @@ def division(a,b):
    else:
    	c='b=0 no se puede dividir'
    return c
+<<<<<<< HEAD
    
 def exponencial(a):
     '''Este programa retorna el valor de e elevado a la a potencia'''
@@ -39,3 +40,11 @@ def cuadrado(a):
     '''Este programa retorna el valor del cuadrado de a'''
     return a*a
  
+=======
+
+def lognatural(a):
+    '''Este programa retorna el valor del logaritmo de a'''
+    return math.log(a)   
+
+
+>>>>>>> RamaLognatural
