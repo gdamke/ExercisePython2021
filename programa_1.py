@@ -42,4 +42,3 @@ def cuadrado(a):
 def lognatural(a):
     '''Este programa retorna el valor del logaritmo de a'''
     return math.log(a)   
-x
